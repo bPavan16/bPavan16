@@ -32,7 +32,6 @@
 
 -->
 # ✍️ Quotes 
-<br/>
 
 <div style="
   border-left: 8px solid #4CAF50;
