@@ -28,7 +28,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 -->
-### ✍️ Quotes I belive in
+# ✍️ Quote
 <br/>
 
 <div style="
