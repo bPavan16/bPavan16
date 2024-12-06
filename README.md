@@ -24,7 +24,16 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bPavan16&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
 
--->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+-->
+
+<div style="border-left: 5px solid #4CAF50; padding: 20px; background: linear-gradient(135deg, #e0f7fa, #f1f8e9); font-family: Arial, sans-serif; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <h3 style="color: #2e7d32; font-size: 1.5rem; margin: 0;">🌟 "The best way to predict the future is to create it."</h3>
+  <p style="color: #1b5e20; font-size: 1rem; margin: 5px 0 0;">— <strong>Peter Drucker</strong></p>
+  <p style="color: #4e342e; font-style: italic; margin-top: 10px;">🚀 Dream big, work hard, and never stop learning!</p>
+</div>
+
+
 
