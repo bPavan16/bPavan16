@@ -28,11 +28,49 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 -->
+### ✍️ Quotes I belive in
+<br/>
 
-<div style="border-left: 5px solid #4CAF50; padding: 20px; background: linear-gradient(135deg, #e0f7fa, #f1f8e9); font-family: Arial, sans-serif; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h3 style="color: #2e7d32; font-size: 1.5rem; margin: 0;">🌟 "The best way to predict the future is to create it."</h3>
-  <p style="color: #1b5e20; font-size: 1rem; margin: 5px 0 0;">— <strong>Peter Drucker</strong></p>
-  <p style="color: #4e342e; font-style: italic; margin-top: 10px;">🚀 Dream big, work hard, and never stop learning!</p>
+<div style="
+  border-left: 8px solid #4CAF50;
+  padding: 20px;
+  background: linear-gradient(135deg, #e3f2fd, #f1f8e9);
+  font-family: 'Arial', sans-serif;
+  border-radius: 15px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 20px auto;
+">
+  <h3 style="
+    color: #2e7d32;
+    font-size: 1.8rem;
+    margin: 0 0 10px;
+    line-height: 1.4;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  ">
+    "What are your choices when someone puts a gun to your head?"
+    <br/>
+    "You take the gun, or you pull out a bigger one. Or, you call their bluff. Or, you do any one of a hundred and forty six other things."
+  </h3>
+  <p style="
+    color: #1b5e20;
+    font-size: 1rem;
+    margin: 5px 0 0;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+  ">
+    — <strong>Harvey Specter</strong>
+  </p>
+  <p style="
+    color: #4e342e;
+    font-style: italic;
+    margin-top: 15px;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    text-align: justify;
+  ">
+  </p>
 </div>
 
 
