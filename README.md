@@ -1,5 +1,5 @@
-# 💫 Hey!! This is Pavan:
-🌱 I'm Currently exploring advanced AI-ML and full-stack development.<br>🎯 Focused on learning AI-ML <br>💡 Always excited to learn new tools, frameworks, and programming paradigms.<br>🌐 Actively contributing to open-source and personal projects.<br>
+# 💫 Hey!! This is Pavan
+### "Embracing curiosity and exploring new horizons by experimenting with fresh ideas, learning new skills, and pushing boundaries to uncover exciting possibilities."
 
 
 ---
