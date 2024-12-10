@@ -1,5 +1,4 @@
-# 💫 Hey!! This is Pavan
-### "Embracing curiosity and exploring new horizons by experimenting with fresh ideas, learning new skills, and pushing boundaries to uncover exciting possibilities."
+# Hey!! This is Pavan
 
 
 ---
@@ -31,8 +30,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 -->
-# ✍️ Quotes 
 
+<!--
+# ✍️ Quotes 
 <div>
 
   <h3>
@@ -50,12 +50,11 @@
   <p>
     — <strong>Harvey Specter</strong>
   </p>
-
-
-
- 
   
 </div>
+-->
+
+
 
 
 
