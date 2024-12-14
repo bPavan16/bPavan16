@@ -11,7 +11,9 @@
 
 ### If I had to describe myself in one sentence, it would be "bad at following directions"
 
-### My Profile Views: [![](https://visitcount.itsvg.in/api?id=bPavan16&icon=0&color=1)](https://visitcount.itsvg.in)
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=bPavan16&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <br>
 
