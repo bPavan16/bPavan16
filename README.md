@@ -75,11 +75,10 @@
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="65" height="65"/><br><b>Java </b></td>
 </tr>
 <tr>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="65" height="65"/><br><b>React JS (Library)</b></td>
+     <td align="center" style="background:red" ><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="65" height="65"/><br><b>MongoDB</b></td>
+     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="MongoDB" width="65" height="65"/><br><b>ExpressJs</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="65" height="65"/><br><b>React JS </b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="65" height="65"/><br><b>Node JS (Runtime)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="65" height="65"/><br><b>MongoDB (Database)</b></td>
-     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="65" height="65"/><br><b>Tailwind CSS</b></td>
-      <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="My Sql" width="65" height="65"/><br><b>My Sql (Runtime)</b></td>
 </tr>
 <tr>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" alt="Pytorch" width="65" height="65"/><br><b>Pytorch</b></td>
@@ -91,8 +90,16 @@
 <tr align="center">
   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65" height="65"/><br><b>HTML (Markup)</b></td>
   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="65" height="65"/><br><b>CSS (Stylesheet)</b></td>
-</tr>
+  <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="65" height="65"/><br><b>Tailwind CSS</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="65" height="65"/><br><b>NextJs</b></td>next-js
 
+
+</tr>
+<tr>
+        <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="My Sql" width="65" height="65"/><br><b>My Sql(Database)</b></td>
+     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="65" height="65"/><br><b>MongoDB (Database)</b></td>
+
+</tr>
   
 </table>
 
