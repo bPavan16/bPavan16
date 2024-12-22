@@ -91,7 +91,7 @@
   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65" height="65"/><br><b>HTML (Markup)</b></td>
   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="65" height="65"/><br><b>CSS (Stylesheet)</b></td>
   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="65" height="65"/><br><b>Tailwind CSS</b></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="65" height="65"/><br><b>NextJs</b></td>next-js
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="65" height="65"/><br><b>NextJs</b></td>
 
 
 </tr>
