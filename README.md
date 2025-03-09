@@ -11,9 +11,7 @@
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=bPavan16&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<br>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pavanb16)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavan_b16) 
@@ -63,7 +61,7 @@
 </div>
 -->
 
----
+<!---
 
 <h1 align="center">💻 My Tech Stack:</h1>
 <table align="center">
@@ -101,6 +99,131 @@
 
 </tr>
   
+</table>
+
+-->
+
+<h1 align="center">💻 My Technology Portfolio</h1>
+
+<!-- PROGRAMMING LANGUAGES -->
+<h2 align="center">🔤 Programming Languages</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="65" height="65"/><br><b>C</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="65" height="65"/><br><b>C++</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="65" height="65"/><br><b>Python</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="65" height="65"/><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="65" height="65"/><br><b>TypeScript</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="65" height="65"/><br><b>Java</b></td>
+  </tr>
+</table>
+
+<!-- FRONTEND DEVELOPMENT -->
+<h2 align="center">🌐 Frontend Development</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65" height="65"/><br><b>HTML5</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="65" height="65"/><br><b>CSS3</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="65" height="65"/><br><b>React JS</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="65" height="65"/><br><b>Next.js</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="65" height="65"/><br><b>Tailwind CSS</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="65" height="65"/><br><b>Redux</b></td>
+  </tr>
+ 
+</table>
+
+<!-- BACKEND DEVELOPMENT -->
+<h2 align="center">⚙️ Backend Development</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="65" height="65"/><br><b>Node.js</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="ExpressJS" width="65" height="65"/><br><b>Express.js</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="65" height="65"/><br><b>Django</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="65" height="65"/><br><b>Flask</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="65" height="65"/><br><b>Spring Boot</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="65" height="65"/><br><b>GraphQL</b></td>
+  </tr>
+</table>
+
+<!-- DATABASES -->
+<h2 align="center">🗄️ Databases</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="65" height="65"/><br><b>MongoDB</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="MySQL" width="65" height="65"/><br><b>MySQL</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="65" height="65"/><br><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="65" height="65"/><br><b>Firebase</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="65" height="65"/><br><b>Redis</b></td>
+  </tr>
+</table>
+
+<!-- DATA SCIENCE & MACHINE LEARNING -->
+<h2 align="center">📊 Data Science & Machine Learning</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/pytorch.svg" alt="Pytorch" width="65" height="65"/><br><b>PyTorch</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow" width="65" height="65"/><br><b>TensorFlow</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/numpy.svg" alt="Numpy" width="65" height="65"/><br><b>NumPy</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="65" height="65"/><br><b>Pandas</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/matplotlib.svg" alt="Matplotlib" width="65" height="65"/><br><b>Matplotlib</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/scikit-learn.svg" alt="Scikit-Learn" width="65" height="65"/><br><b>Scikit-Learn</b></td>
+    <td align="center"><img src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" alt="Keras" width="65" height="65"/><br><b>Keras</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/opencv.svg" alt="OpenCV" width="65" height="65"/><br><b>OpenCV</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/hugging-face-1.svg" alt="Hugging Face" width="65" height="65"/><br><b>Hugging Face</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="85" height="45"/><br><b>Scikit-Learn</b></td>
+  </tr>
+</table>
+
+
+<!-- DEVOPS & CLOUD -->
+<!--
+<h2 align="center">☁️ DevOps & Cloud</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="65" height="65"/><br><b>Docker</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" width="65" height="65"/><br><b>Kubernetes</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="65" height="65"/><br><b>Git</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="65" height="65"/><br><b>GitHub</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="65" height="65"/><br><b>AWS</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="65" height="65"/><br><b>Azure</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP" width="65" height="65"/><br><b>Google Cloud</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins" width="65" height="65"/><br><b>Jenkins</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="65" height="65"/><br><b>Vercel</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" width="65" height="65"/><br><b>Netlify</b></td>
+  </tr>
+</table>
+ -->
+
+
+<!-- MOBILE DEVELOPMENT -->
+<!--
+<h2 align="center">📱 Mobile Development</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="65" height="65"/><br><b>React Native</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="65" height="65"/><br><b>Flutter</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android" width="65" height="65"/><br><b>Android</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift" width="65" height="65"/><br><b>Swift</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="65" height="65"/><br><b>Kotlin</b></td>
+  </tr>
+</table>
+ -->
+
+<!-- TOOLS & UTILITIES -->
+<h2 align="center">🛠️ Tools & Utilities</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="65" height="65"/><br><b>VS Code</b></td>
+<!--     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="65" height="65"/><br><b>Jira</b></td> -->
+<!--     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma" width="65" height="65"/><br><b>Figma</b></td> -->
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="65" height="65"/><br><b>Postman</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm" width="65" height="65"/><br><b>npm</b></td>
+<!--     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="65" height="65"/><br><b>Webpack</b></td> -->
+  </tr>
 </table>
 
 <!--
