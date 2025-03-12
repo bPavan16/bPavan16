@@ -141,7 +141,7 @@
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="65" height="65"/><br><b>Django</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="65" height="65"/><br><b>Flask</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="65" height="65"/><br><b>Spring Boot</b></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="65" height="65"/><br><b>GraphQL</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL" width="65" height="65"/><br><b>GraphQL</b></td>
   </tr>
 </table>
 
@@ -150,7 +150,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="65" height="65"/><br><b>MongoDB</b></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="MySQL" width="65" height="65"/><br><b>MySQL</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" width="65" height="65"/><br><b>MySQL</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="65" height="65"/><br><b>PostgreSQL</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="65" height="65"/><br><b>Firebase</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="65" height="65"/><br><b>Redis</b></td>
@@ -161,17 +161,17 @@
 <h2 align="center">📊 Data Science & Machine Learning</h2>
 <table align="center">
   <tr>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/pytorch.svg" alt="Pytorch" width="65" height="65"/><br><b>PyTorch</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" alt="Pytorch" width="65" height="65"/><br><b>PyTorch</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow" width="65" height="65"/><br><b>TensorFlow</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/numpy.svg" alt="Numpy" width="65" height="65"/><br><b>NumPy</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="65" height="65"/><br><b>Pandas</b></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/matplotlib.svg" alt="Matplotlib" width="65" height="65"/><br><b>Matplotlib</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="Matplotlib" width="65" height="65"/><br><b>Matplotlib</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/scikit-learn.svg" alt="Scikit-Learn" width="65" height="65"/><br><b>Scikit-Learn</b></td>
-    <td align="center"><img src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" alt="Keras" width="65" height="65"/><br><b>Keras</b></td>
+    <td align="center"><img src="https://en.m.wikipedia.org/wiki/File:Keras_logo.svg" alt="Keras" width="65" height="65"/><br><b>Keras</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/opencv.svg" alt="OpenCV" width="65" height="65"/><br><b>OpenCV</b></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/hugging-face-1.svg" alt="Hugging Face" width="65" height="65"/><br><b>Hugging Face</b></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="Hugging Face" width="65" height="65"/><br><b>Hugging Face</b></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="85" height="45"/><br><b>Scikit-Learn</b></td>
   </tr>
 </table>
