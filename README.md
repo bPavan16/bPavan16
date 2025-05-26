@@ -103,10 +103,10 @@
 
 -->
 
-<h1 align="center">💻 My Technology Portfolio</h1>
+<h1 align="center">💻My Technical Expertise</h1>
 
 <!-- PROGRAMMING LANGUAGES -->
-<h2 align="center">🔤 Programming Languages</h2>
+<h3 align="center">🔤 Programming Languages</h2>
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="65" height="65"/><br><b>C</b></td>
@@ -119,7 +119,7 @@
 </table>
 
 <!-- FRONTEND DEVELOPMENT -->
-<h2 align="center">🌐 Frontend Development</h2>
+<h3 align="center">🌐 Frontend Development</h3>
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65" height="65"/><br><b>HTML5</b></td>
@@ -133,7 +133,7 @@
 </table>
 
 <!-- BACKEND DEVELOPMENT -->
-<h2 align="center">⚙️ Backend Development</h2>
+<h3 align="center">⚙️ Backend Development</h3>
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="65" height="65"/><br><b>Node.js</b></td>
@@ -146,7 +146,7 @@
 </table>
 
 <!-- DATABASES -->
-<h2 align="center">🗄️ Databases</h2>
+<h3 align="center">🗄️ Databases</h3>
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="65" height="65"/><br><b>MongoDB</b></td>
@@ -158,7 +158,7 @@
 </table>
 
 <!-- DATA SCIENCE & MACHINE LEARNING -->
-<h2 align="center">📊 Data Science & Machine Learning</h2>
+<h3 align="center">📊 Data Science & Machine Learning</h3>
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" alt="Pytorch" width="65" height="65"/><br><b>PyTorch</b></td>
@@ -214,7 +214,7 @@
  -->
 
 <!-- TOOLS & UTILITIES -->
-<h2 align="center">🛠️ Tools & Utilities</h2>
+<h3 align="center">🛠️ Tools & Utilities</h3>
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="65" height="65"/><br><b>VS Code</b></td>
@@ -249,9 +249,11 @@
 
 </div>
 
+---
 
 <div align="center">
-  <h3>💭 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <h3>💭 "Code is like humor. When you have to explain it, it's bad." </h3>
+  <h6>- Cory House</h6>
   <p>Let's build something amazing together!</p>
 </div>
 
