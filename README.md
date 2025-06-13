@@ -103,9 +103,9 @@
 
 -->
 
+<!-- 
 <h1 align="center">💻My Technical Expertise</h1>
 
-<!-- PROGRAMMING LANGUAGES -->
 <h3 align="center">🔤 Programming Languages</h2>
 <table align="center">
   <tr>
@@ -118,7 +118,6 @@
   </tr>
 </table>
 
-<!-- FRONTEND DEVELOPMENT -->
 <h3 align="center">🌐 Frontend Development</h3>
 <table align="center">
   <tr>
@@ -132,7 +131,6 @@
  
 </table>
 
-<!-- BACKEND DEVELOPMENT -->
 <h3 align="center">⚙️ Backend Development</h3>
 <table align="center">
   <tr>
@@ -145,7 +143,6 @@
   </tr>
 </table>
 
-<!-- DATABASES -->
 <h3 align="center">🗄️ Databases</h3>
 <table align="center">
   <tr>
@@ -157,7 +154,6 @@
   </tr>
 </table>
 
-<!-- DATA SCIENCE & MACHINE LEARNING -->
 <h3 align="center">📊 Data Science & Machine Learning</h3>
 <table align="center">
   <tr>
@@ -176,8 +172,6 @@
   </tr>
 </table>
 
-
-<!-- DEVOPS & CLOUD -->
 <!--
 <h2 align="center">☁️ DevOps & Cloud</h2>
 <table align="center">
@@ -196,11 +190,7 @@
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" width="65" height="65"/><br><b>Netlify</b></td>
   </tr>
 </table>
- -->
-
-
-<!-- MOBILE DEVELOPMENT -->
-<!--
+ 
 <h2 align="center">📱 Mobile Development</h2>
 <table align="center">
   <tr>
@@ -211,33 +201,19 @@
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="65" height="65"/><br><b>Kotlin</b></td>
   </tr>
 </table>
- -->
 
-<!-- TOOLS & UTILITIES -->
 <h3 align="center">🛠️ Tools & Utilities</h3>
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="65" height="65"/><br><b>VS Code</b></td>
-<!--     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="65" height="65"/><br><b>Jira</b></td> -->
-<!--     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma" width="65" height="65"/><br><b>Figma</b></td> -->
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="65" height="65"/><br><b>Postman</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm" width="65" height="65"/><br><b>npm</b></td>
-<!--     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="65" height="65"/><br><b>Webpack</b></td> -->
+
   </tr>
 </table>
 
-<!--
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bPavan16&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bPavan16&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bPavan16&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 -->
-
-</div>
-
----
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bPavan16&theme=radical" height="180em" alt="Stats"/>
