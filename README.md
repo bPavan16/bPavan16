@@ -221,7 +221,6 @@
   
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bPavan16&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bPavan16&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bPavan16&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
 
 </div>
 
