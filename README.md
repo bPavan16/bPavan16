@@ -228,8 +228,9 @@
 
 <div align="center">
   <h3>💭 "Code is like humor. When you have to explain it, it's bad." </h3>
-  <h6>- Cory House</h6>
-  <p>Let's build something amazing together!</p>
+  <h5>- Cory House</h5>
+  
+---
 </div>
 
 
