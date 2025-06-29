@@ -212,8 +212,8 @@
   </tr>
 </table>
 
-
 -->
+
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bPavan16&theme=radical" height="180em" alt="Stats"/>
@@ -222,6 +222,25 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bPavan16&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bPavan16&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
 
+</div>
+
+---
+
+<div>
+
+<h2 align="center">My Technical Expertise</h2>
+
+![Languages](https://skillicons.dev/icons?i=cpp,c,python,ts,js,java)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,tailwind,html,css)
+[![Backend Technologies](https://skillicons.dev/icons?i=express,nodejs,django,flask,fastapi)](https://skillicons.dev)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,prisma,firebase,supabase)
+![Data Science and ML](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv)
+![Tools and Technologies](https://skillicons.dev/icons?i=git,github,vscode,linux)
+
+
+
+
+  
 </div>
 
 ---
