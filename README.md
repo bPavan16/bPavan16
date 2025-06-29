@@ -233,9 +233,11 @@
 ![Languages](https://skillicons.dev/icons?i=cpp,c,python,ts,js,java)
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,tailwind,html,css)
 [![Backend Technologies](https://skillicons.dev/icons?i=express,nodejs,django,flask,fastapi)](https://skillicons.dev)
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,prisma,firebase,supabase)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,prisma,firebase,postgres,supabase)
 ![Data Science and ML](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv)
-![Tools and Technologies](https://skillicons.dev/icons?i=git,github,vscode,linux)
+![Tools and Technologies](https://skillicons.dev/icons?i=git,github,vscode,linux,bash,md,selenium,postman)
+![Devops and Cloud](https://skillicons.dev/icons?i=kubernetes,docker)
+
 
 
 
