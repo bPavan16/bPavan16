@@ -11,7 +11,7 @@
 <br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bPavan16&label=Profile%20Views&color=58A6FF&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/bPavan16?label=Followers&style=for-the-badge&color=58A6FF&labelColor=1e1e2e)](https://github.com/bPavan16)
+
 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pavanb16)
@@ -62,18 +62,19 @@
 
 
 
-
+---
   
 </div>
-
----
 
 <div align="center">
-  <h3>💭 "Code is like humor. When you have to explain it, it's bad." </h3>
-  <h5>- Cory House</h5>
   
----
+```
+Code is like humor. When you have to explain it, it's bad.
+
+- Cory House
+```
 </div>
+
 
 
 
