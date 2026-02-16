@@ -4,13 +4,28 @@
 
 ![Languages](https://skillicons.dev/icons?i=cpp,python,ts,nodejs,spring,java,express,nodejs,pytorch,go,react,docker,kubernetes,docker,flutter)
 
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="65" height="65"/>
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="65" height="65"/>
-![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=python&logoColor=yellow)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-3178C6?style=flat-square&logo=go&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-FF8524?style=flat-square&logo=google-chrome&logoColor=black) -->
+## Projects & Tools I’ve Built
+
+- 🎙️ **[Murphy](https://github.com/bPavan16/murfy-podcasts)** - AI-powered podcast generator that turns ideas into spoken audio content
+- 📊 **[Problem-tracker](https://github.com/bPavan16/problem-tracker)** - Desktop app to track and analyze LeetCode problem-solving progress
+- 🎓 **[smart-lms](https://github.com/bPavan16/smart-lms)** - AI-enhanced LMS with transcription, translation, note generation, and personalized learning
+- 🎮 **[ubiquitous-games](https://github.com/bPavan16/ubiquitous-games)** - Real-time multiplayer gaming platform (Sudoku, Battleship, Tic-Tac-Toe, etc.)
+- 🎵 **[lyricwiz-chrome](https://github.com/bPavan16/lyricwiz-chrome)** - Chrome extension that detects playing songs and displays lyrics instantly
+- 📖 **[SpeedReader](https://github.com/bPavan16/SpeedReader)** - Reading-speed optimization app with controlled text playback from PDFs
+
+
+## My GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/bPavan16)
+
+## What I'm Doing
+- **Learning by building** - Turning concepts into working systems, not notes
+- **Compounding skills** - Turning every project into reusable leverage
+- **Thinking in systems** - Designing scalable, composable architectures rather than one-off solutions
+- **Learning in public** - Building, breaking, and refining ideas openly
+
+
+## My Socials
 
 
 
