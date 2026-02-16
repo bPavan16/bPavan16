@@ -1,14 +1,16 @@
-# Hey, I'm Pavan 👋
+# Hey, I'm Pavan Bhakta 👋
 
-📍 **Hnr ↔ Bglr** | 🤖 **Polyagentmorous builder** | 
+### 📍 **Honavar ↔ Bangalore** | 🤖 **Polyagentmorous builder** | 
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Languages](https://skillicons.dev/icons?i=cpp,python,ts,nodejs,spring,java,express,nodejs,pytorch,go,react,docker,kubernetes,docker,flutter)
+
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="65" height="65"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="65" height="65"/>
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=python&logoColor=yellow)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-3178C6?style=flat-square&logo=go&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-FF8524?style=flat-square&logo=google-chrome&logoColor=black)
+![Web](https://img.shields.io/badge/-Web-FF8524?style=flat-square&logo=google-chrome&logoColor=black) -->
 
 
 
