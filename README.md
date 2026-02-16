@@ -1,4 +1,4 @@
-# Hi, I'm Pavan 👋
+# Hey, I'm Pavan 👋
 
 📍 **Hnr ↔ Bglr** | 🤖 **Polyagentmorous builder** | 
 
