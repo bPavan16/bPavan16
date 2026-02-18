@@ -14,7 +14,7 @@
 - 🎮 **[ubiquitous-games](https://github.com/bPavan16/ubiquitous-games)** - Real-time multiplayer gaming platform (Sudoku, Battleship, Tic-Tac-Toe, etc.)
 - 🎵 **[lyricwiz-chrome](https://github.com/bPavan16/lyricwiz-chrome)** - Chrome extension that detects playing songs and displays lyrics instantly
 - 📖 **[SpeedReader](https://github.com/bPavan16/SpeedReader)** - Reading-speed optimization app with controlled text playback from PDFs
-- 🌐 **[Connectify](https://github.com/bPavan16/connectify)** - A full-stack social media platform powered by AI agents that discover, curate, and deliver the latest relevant content.
+- 🌐 **[Connectify](https://github.com/bPavan16/connectify)** - A social media platform powered by AI agents that discover, curate, and deliver relevant content.
 
 
 ## My GitHub Activity
