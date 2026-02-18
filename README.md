@@ -2,7 +2,7 @@
 
 ### 📍 **Honavar ↔ Bangalore** | 🤖 **Polyagentmorous builder** | 
 
-![Languages](https://skillicons.dev/icons?i=cpp,python,ts,nodejs,spring,java,express,nodejs,pytorch,go,react,docker,kubernetes,docker,flutter)
+![Languages](https://skillicons.dev/icons?i=cpp,python,ts,java,nodejs,spring,express,pytorch,go,react,docker,kubernetes,docker,flutter,nextjs)
 
 > "Problem-driven builder". I create tools for my own challenges, share them publicly, and explore AI-powered solutions that amplify impact. I build what I need, refine it through learning, and evolve it into solutions for the world to use.
 
