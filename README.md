@@ -15,7 +15,7 @@
 - 🎵 **[lyricwiz-chrome](https://github.com/bPavan16/lyricwiz-chrome)** - Chrome extension that detects playing songs and displays lyrics instantly
 - 📖 **[SpeedReader](https://github.com/bPavan16/SpeedReader)** - Reading-speed optimization app with controlled text playback from PDFs
 - 🌐 **[Connectify](https://github.com/bPavan16/connectify)** - A social media platform powered by AI agents that discover, curate, and deliver relevant content.
-- 🔢 **[vision-sudoku](https://github.com/bPavan16/vision-sudoku)** - A Sudoku solver that uses image processing techniques to detect and solve Sudoku puzzles from images.
+- 🔢 **[vision-sudoku](https://github.com/bPavan16/vision-sudoku)** - App that uses image processing techniques to detect and solve Sudoku puzzles from images.
   
 
 ## My GitHub Activity
