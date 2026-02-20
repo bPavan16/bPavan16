@@ -31,11 +31,15 @@
 
 ## My Socials
 
-![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=64)
-![medium](https://www.readmecodegen.com/api/social-icon?name=medium&size=64&color=%23ffffff)
-![x](https://www.readmecodegen.com/api/social-icon?name=x&size=64&color=%23ffffff)
-![hashnode](https://www.readmecodegen.com/api/social-icon?name=hashnode&size=64)
-![spotify](https://www.readmecodegen.com/api/social-icon?name=spotify&size=64)
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=64&bg=%23ffffff&link=my-link)](my-link)
+<!-- <div align="center"> -->
+
+[![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=64)](https://www.instagram.com/bpavan_16/)
+[![medium](https://www.readmecodegen.com/api/social-icon?name=medium&size=64&color=%23ffffff)](https://medium.com/@bPavan16)
+[![x](https://www.readmecodegen.com/api/social-icon?name=x&size=64&color=%23ffffff)](https://twitter.com/mrPavanB69)
+[![hashnode](https://www.readmecodegen.com/api/social-icon?name=hashnode&size=64)](github.com/bPavan16)
+[![spotify](https://www.readmecodegen.com/api/social-icon?name=spotify&size=64)](github.com/bPavan16)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=64&bg=%23ffffff&link=my-link)](https://www.linkedin.com/in/pavan-bhakta-19jul)
+
+<!-- </div> -->
 
 > "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
