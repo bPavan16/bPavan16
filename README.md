@@ -6,6 +6,10 @@
 
 > "Problem-driven builder". I create tools for my own challenges, share them publicly, and explore AI-powered solutions that amplify impact. I build what I need, refine it through learning, and evolve it into solutions for the world to use.
 
+## My Blog
+My page **[The Human Algorithm](https://the-human-algorithm-eight.vercel.app/)** is a space to explore and share the hidden psychology behind why we think, feel, and behave the way we do organized like a book, designed to read like one  
+
+
 ## Projects & Tools I’ve Built
 
 - 🎙️ **[Murphy](https://github.com/bPavan16/murfy-podcasts)** - AI-powered podcast generator that turns ideas into spoken audio content
